@@ -1,2 +1,0 @@
-def TOKEN():
-    return "MTE0MzMzNzQ2NzE0NDA1NjkwMg.GE87gV.5lOUuJUs8kRF0sQ4OAFiFGlXfUshMNN8ypFK0M"
